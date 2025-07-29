@@ -1,3 +1,5 @@
+https://github.com/fangwan90/HaaS/blob/main/prompt.ipynb
+
 The car column contains only 108 data entries, comprising responses to a question on the type of car that the person drives. Since this variable will be used later, and does not affect the overall analysis, we leave the NaN values first. We assume that those who did not respond with their car models, do have a car, but did not want to share their car type. For accuracy, we filter away the rows for which the individual shared that they do not drive, albeit not significant to the overall analysis.  
 
 Scooter and motorcycle                      22
